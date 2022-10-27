@@ -1,0 +1,71 @@
+F:\ItStep\Курсовой ADO\TestSystem\TestSystem\bin\Debug\TestSystem.exe.config
+F:\ItStep\Курсовой ADO\TestSystem\TestSystem\bin\Debug\TestSystem.exe
+F:\ItStep\Курсовой ADO\TestSystem\TestSystem\bin\Debug\TestSystem.pdb
+F:\ItStep\Курсовой ADO\TestSystem\TestSystem\bin\Debug\EntityFramework.dll
+F:\ItStep\Курсовой ADO\TestSystem\TestSystem\bin\Debug\EntityFramework.SqlServer.dll
+F:\ItStep\Курсовой ADO\TestSystem\TestSystem\bin\Debug\EntityFramework.xml
+F:\ItStep\Курсовой ADO\TestSystem\TestSystem\bin\Debug\EntityFramework.SqlServer.xml
+F:\ItStep\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.csprojAssemblyReference.cache
+F:\ItStep\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.Form1.resources
+F:\ItStep\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.Properties.Resources.resources
+F:\ItStep\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.Registration.resources
+F:\ItStep\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.csproj.GenerateResource.cache
+F:\ItStep\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.csproj.CoreCompileInputs.cache
+F:\ItStep\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.csproj.CopyComplete
+F:\ItStep\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.exe
+F:\ItStep\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.pdb
+F:\ItStep\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.TeacherForm.resources
+F:\ItStep\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.AddTest.resources
+F:\ItStep\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.AddQuestion.resources
+F:\ItStep\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.StudentForm.resources
+F:\ItStep\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.TakeTest.resources
+F:\ItStep\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.TestResult.resources
+F:\ItStep\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.Picture.resources
+J:\ITStep\4 семестр\Курсовой ADO\TestSystem\TestSystem\bin\Debug\TestSystem.exe.config
+J:\ITStep\4 семестр\Курсовой ADO\TestSystem\TestSystem\bin\Debug\TestSystem.exe
+J:\ITStep\4 семестр\Курсовой ADO\TestSystem\TestSystem\bin\Debug\TestSystem.pdb
+J:\ITStep\4 семестр\Курсовой ADO\TestSystem\TestSystem\bin\Debug\EntityFramework.dll
+J:\ITStep\4 семестр\Курсовой ADO\TestSystem\TestSystem\bin\Debug\EntityFramework.SqlServer.dll
+J:\ITStep\4 семестр\Курсовой ADO\TestSystem\TestSystem\bin\Debug\EntityFramework.xml
+J:\ITStep\4 семестр\Курсовой ADO\TestSystem\TestSystem\bin\Debug\EntityFramework.SqlServer.xml
+J:\ITStep\4 семестр\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.csproj.AssemblyReference.cache
+J:\ITStep\4 семестр\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.csproj.SuggestedBindingRedirects.cache
+J:\ITStep\4 семестр\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.AddQuestion.resources
+J:\ITStep\4 семестр\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.AddTest.resources
+J:\ITStep\4 семестр\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.Form1.resources
+J:\ITStep\4 семестр\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.Picture.resources
+J:\ITStep\4 семестр\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.Properties.Resources.resources
+J:\ITStep\4 семестр\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.Registration.resources
+J:\ITStep\4 семестр\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.StudentForm.resources
+J:\ITStep\4 семестр\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.TakeTest.resources
+J:\ITStep\4 семестр\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.TeacherForm.resources
+J:\ITStep\4 семестр\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.TestResult.resources
+J:\ITStep\4 семестр\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.csproj.GenerateResource.cache
+J:\ITStep\4 семестр\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.csproj.CoreCompileInputs.cache
+J:\ITStep\4 семестр\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.csproj.CopyComplete
+J:\ITStep\4 семестр\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.exe
+J:\ITStep\4 семестр\Курсовой ADO\TestSystem\TestSystem\obj\Debug\TestSystem.pdb
+D:\ItStep\TestSystem\TestSystem\bin\Debug\TestSystem.exe.config
+D:\ItStep\TestSystem\TestSystem\bin\Debug\TestSystem.exe
+D:\ItStep\TestSystem\TestSystem\bin\Debug\TestSystem.pdb
+D:\ItStep\TestSystem\TestSystem\bin\Debug\EntityFramework.dll
+D:\ItStep\TestSystem\TestSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\ItStep\TestSystem\TestSystem\bin\Debug\EntityFramework.xml
+D:\ItStep\TestSystem\TestSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\ItStep\TestSystem\TestSystem\obj\Debug\TestSystem.csproj.AssemblyReference.cache
+D:\ItStep\TestSystem\TestSystem\obj\Debug\TestSystem.csproj.SuggestedBindingRedirects.cache
+D:\ItStep\TestSystem\TestSystem\obj\Debug\TestSystem.AddQuestion.resources
+D:\ItStep\TestSystem\TestSystem\obj\Debug\TestSystem.AddTest.resources
+D:\ItStep\TestSystem\TestSystem\obj\Debug\TestSystem.Form1.resources
+D:\ItStep\TestSystem\TestSystem\obj\Debug\TestSystem.Picture.resources
+D:\ItStep\TestSystem\TestSystem\obj\Debug\TestSystem.Properties.Resources.resources
+D:\ItStep\TestSystem\TestSystem\obj\Debug\TestSystem.Registration.resources
+D:\ItStep\TestSystem\TestSystem\obj\Debug\TestSystem.StudentForm.resources
+D:\ItStep\TestSystem\TestSystem\obj\Debug\TestSystem.TakeTest.resources
+D:\ItStep\TestSystem\TestSystem\obj\Debug\TestSystem.TeacherForm.resources
+D:\ItStep\TestSystem\TestSystem\obj\Debug\TestSystem.TestResult.resources
+D:\ItStep\TestSystem\TestSystem\obj\Debug\TestSystem.csproj.GenerateResource.cache
+D:\ItStep\TestSystem\TestSystem\obj\Debug\TestSystem.csproj.CoreCompileInputs.cache
+D:\ItStep\TestSystem\TestSystem\obj\Debug\TestSystem.csproj.CopyComplete
+D:\ItStep\TestSystem\TestSystem\obj\Debug\TestSystem.exe
+D:\ItStep\TestSystem\TestSystem\obj\Debug\TestSystem.pdb
